@@ -6,7 +6,7 @@ I'm currently a sophomore studying Robotics Engineering + Computer Science at th
 My academic interests include:
 👀 computer vision 
 🧠 machine learning 
-🚗 autonomous naviation (specifically in automotive contexts) 
+🚗 autonomous navigation (specifically in automotive contexts) 
 💻 occasionally dabbling in front-end dev 
 
 Fun facts about me:
