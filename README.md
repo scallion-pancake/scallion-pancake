@@ -11,6 +11,7 @@ My academic interests include:
 
 Fun facts about me:
 1. I am a takoyaki connoisseur
+2. I am a Tower of God reader & Attack on Titan enjoyer (Hoping no one from my university sees this)
    
 
 
