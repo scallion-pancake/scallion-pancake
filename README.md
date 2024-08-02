@@ -1,6 +1,6 @@
 Hej!👋
 
-I'm Yulei (yoo-lay), an aspiring robotics engineer based in Ann Arbor, MI. 
+I'm Yulei, an aspiring robotics engineer based in Ann Arbor, MI. 
 I'm currently a sophomore studying Robotics Engineering + Computer Science at the University of 〽ichigan.
 
 My academic interests include:
